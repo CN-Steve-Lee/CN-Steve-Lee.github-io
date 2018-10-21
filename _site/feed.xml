@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Oct 2018 19:59:25 +0800</pubDate>
-    <lastBuildDate>Sun, 21 Oct 2018 19:59:25 +0800</lastBuildDate>
+    <pubDate>Sun, 21 Oct 2018 23:10:32 +0800</pubDate>
+    <lastBuildDate>Sun, 21 Oct 2018 23:10:32 +0800</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -25,22 +25,12 @@
 &lt;img src=&quot;https://raw.githubusercontent.com/CN-Steve-Lee/CN-Steve-Lee.github.io/master/temp/test.png&quot; alt=&quot;&quot; /&gt;
 
 &lt;h2 id=&quot;在编辑过程中会有如下提示&quot;&gt;在编辑过程中，会有如下提示&lt;/h2&gt;
-
-&lt;img src=&quot;http://7q5cdt.com1.z0.glb.clouddn.com/SublimeLinter-csslint-test.jpg&quot; alt=&quot;SublimeLinter-csslint-test&quot; /&gt;
-
-点击提示点后，Sublime 状态栏也会有相应的说明
-
-&lt;img src=&quot;http://7q5cdt.com1.z0.glb.clouddn.com/SublimeLinter-csslint-test2.jpg&quot; alt=&quot;SublimeLinter-csslint-test2&quot; /&gt;
 </description>
         <pubDate>Mon, 22 Oct 2018 03:40:55 +0800</pubDate>
         <link>http://localhost:4000/2018/10/22/sublimeLinter-%E5%89%AF%E6%9C%AC/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/10/22/sublimeLinter-%E5%89%AF%E6%9C%AC/</guid>
         
         <category>Sublime</category>
-        
-        <category>jshint</category>
-        
-        <category>csslint</category>
         
         
         <category>Sublime</category>
@@ -81,7 +71,7 @@ a
         <link>http://localhost:4000/2018/10/20/test/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/10/20/test/</guid>
         
-        <category>这个是标签</category>
+        <category>测试标签</category>
         
         
         <category>这是分类</category>

@@ -1,7 +1,7 @@
 
 # 站点设置
 title: Steve Lee
-brief-intro: Computer Science Stu
+brief-intro: Study Notes 
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cn-steve-lee.github.io/" 
 
@@ -10,8 +10,10 @@ permalink: /:year/:month/:day/:title/
 # other links
 github_username: cn-steve-lee
 email: lishixuan@live.cn
+weibo_username: 'null'
+linkedIn_username:  'null'
 
-description_footer: CS学习笔记
+description_footer: Steve Lee's Blog ，  
 
 # 评论插件
 # 两种评论插件，选一个就好了，使用自己的 short_name
