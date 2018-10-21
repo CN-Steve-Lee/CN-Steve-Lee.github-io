@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Lee</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 21 Oct 2018 19:59:25 +0800</pubDate>
+    <lastBuildDate>Sun, 21 Oct 2018 19:59:25 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>markdown语法</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#现在恭喜你我们使用-sublime-编辑-css-文件就会有语法检查了&quot; id=&quot;markdown-toc-现在恭喜你我们使用-sublime-编辑-css-文件就会有语法检查了&quot;&gt;现在，恭喜你，我们使用 Sublime 编辑 css 文件，就会有语法检查了！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#markdown语法&quot; id=&quot;markdown-toc-markdown语法&quot;&gt;markdown语法&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#在编辑过程中会有如下提示&quot; id=&quot;markdown-toc-在编辑过程中会有如下提示&quot;&gt;在编辑过程中，会有如下提示&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;现在恭喜你我们使用-sublime-编辑-css-文件就会有语法检查了&quot;&gt;现在，恭喜你，我们使用 Sublime 编辑 css 文件，就会有语法检查了！&lt;/h1&gt;
+
+&lt;h1 id=&quot;markdown语法&quot;&gt;markdown语法&lt;/h1&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/CN-Steve-Lee/CN-Steve-Lee.github.io/master/temp/test.png&quot; alt=&quot;&quot; /&gt;
+
+&lt;h2 id=&quot;在编辑过程中会有如下提示&quot;&gt;在编辑过程中，会有如下提示&lt;/h2&gt;
+
+&lt;img src=&quot;http://7q5cdt.com1.z0.glb.clouddn.com/SublimeLinter-csslint-test.jpg&quot; alt=&quot;SublimeLinter-csslint-test&quot; /&gt;
+
+点击提示点后，Sublime 状态栏也会有相应的说明
+
+&lt;img src=&quot;http://7q5cdt.com1.z0.glb.clouddn.com/SublimeLinter-csslint-test2.jpg&quot; alt=&quot;SublimeLinter-csslint-test2&quot; /&gt;
+</description>
+        <pubDate>Mon, 22 Oct 2018 03:40:55 +0800</pubDate>
+        <link>http://localhost:4000/2018/10/22/sublimeLinter-%E5%89%AF%E6%9C%AC/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/22/sublimeLinter-%E5%89%AF%E6%9C%AC/</guid>
+        
+        <category>Sublime</category>
+        
+        <category>jshint</category>
+        
+        <category>csslint</category>
+        
+        
+        <category>Sublime</category>
+        
+      </item>
+    
+      <item>
+        <title>markdown语法</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#markdown语法&quot; id=&quot;markdown-toc-markdown语法&quot;&gt;markdown语法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+a
+&lt;h1 id=&quot;markdown语法&quot;&gt;markdown语法&lt;/h1&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/CN-Steve-Lee/CN-Steve-Lee.github.io/master/temp/test.png&quot; alt=&quot;&quot; /&gt;
+```
+代码段
+
+</description>
+        <pubDate>Mon, 22 Oct 2018 01:53:53 +0800</pubDate>
+        <link>http://localhost:4000/2018/10/22/markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/22/markdown/</guid>
+        
+        <category>markdown</category>
+        
+        
+        <category>markdown</category>
+        
+      </item>
+    
+      <item>
+        <title>这是标题</title>
+        <description>
+这是内容
+
+</description>
+        <pubDate>Sat, 20 Oct 2018 22:35:53 +0800</pubDate>
+        <link>http://localhost:4000/2018/10/20/test/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/20/test/</guid>
+        
+        <category>这个是标签</category>
+        
+        
+        <category>这是分类</category>
+        
+      </item>
+    
+  </channel>
+</rss>
