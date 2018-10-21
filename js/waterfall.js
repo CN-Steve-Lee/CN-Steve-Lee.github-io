@@ -14,12 +14,12 @@
      */
   var demoContent = [
     {
-      demo_link: 'https://codepen.io/haoyang/pen/jrvrQq',
-      img_link: 'https://ooo.0o0.ooo/2016/11/24/5836d81f48cd2.png',
-      code_link: 'https://codepen.io/haoyang/pen/jrvrQq',
-      title: 'Fisher-Yates 洗牌算法动画',
-      core_tech: 'JavaScript',
-      description: 'Fisher-Yates 洗牌算法动画。算法详情见 <a href ="https://gaohaoyang.github.io/2016/10/16/shuffle-algorithm/">这里</a>。'
+      demo_link: 'https://codepen.io/haoyang/pen/jrvrQq', //内容链接
+      img_link: 'https://ooo.0o0.ooo/2016/11/24/5836d81f48cd2.png', //图片链接
+      code_link: 'https://codepen.io/haoyang/pen/jrvrQq', //代码链接
+      title: '标题'
+      core_tech: '分类',
+      description: '描述 <a href ="https://gaohaoyang.github.io/2016/10/16/shuffle-algorithm/">这里</a>。'
     }, {
       demo_link: 'http://gaohaoyang.github.io/test/headerTransition/',
       img_link: 'https://ooo.0o0.ooo/2016/06/20/5768c1597d1fe.png',
@@ -27,14 +27,7 @@
       title: 'Header Transition 渐变动画',
       core_tech: 'jQuery BootStrap CSS3',
       description: '花费不到半小时帮师兄做了一个简单的 CSS3 动画效果，当页面滚动到指定距离时，header 区的背景色由透明变为蓝色。仿照了网站 <a href ="https://quorrajs.org/">https://quorrajs.org/</a> 的 Header 区动画效果。'
-    }, {
-      demo_link: 'http://gaohaoyang.github.io/mask-fade-out/',
-      img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/demo-fade-out.png',
-      code_link: 'https://github.com/Gaohaoyang/mask-fade-out',
-      title: '遮罩层按指定路径缩小消失',
-      core_tech: 'jQuery CSS',
-      description: '使用 animate 方法，做到兼容 IE8。曾在联想服务官网上线3个月。'
-    }
+    }, 
   ];
 
   contentInit(demoContent) //内容初始化
