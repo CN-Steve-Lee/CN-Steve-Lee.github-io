@@ -13,7 +13,7 @@ tags: markdown
 
 ```
 代码段
-
+![](https://cn-steve-lee.github.io/temp/test.png)
 
 
 
