@@ -44,9 +44,7 @@ tags: 这个是标签
 代码段
 ```
 
-**解决方法：**
 
-在stackoverflow上又一个很好的解决方法。[hitimes require error when running jekyll serve on windows 8.1](http://stackoverflow.com/questions/28985481/hitimes-require-error-when-running-jekyll-serve-on-windows-8-1) 虽然上面的题主问的是 win 8.1 系统下的情况，但是同样适用于 win7。下面我简单翻译一下错误原因和解决方法。
 
 >突出效果
 >同上
