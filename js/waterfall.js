@@ -17,7 +17,7 @@
       demo_link: 'https://codepen.io/haoyang/pen/jrvrQq', 
       img_link: 'https://ooo.0o0.ooo/2016/11/24/5836d81f48cd2.png', 
       code_link: 'https://codepen.io/haoyang/pen/jrvrQq', 
-      title: '标题'
+      title: '标题',
       core_tech: '分类',
       description: '描述 <a href ="https://gaohaoyang.github.io/2016/10/16/shuffle-algorithm/">这里</a>。'
     }, {
