@@ -5,52 +5,24 @@
     <description></description>
     <link>http://localhost:4000/temp/</link>
     <atom:link href="http://localhost:4000/temp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Oct 2018 23:18:24 +0800</pubDate>
-    <lastBuildDate>Tue, 23 Oct 2018 23:18:24 +0800</lastBuildDate>
+    <pubDate>Tue, 23 Oct 2018 23:24:46 +0800</pubDate>
+    <lastBuildDate>Tue, 23 Oct 2018 23:24:46 +0800</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>markdown语法</title>
         <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#现在恭喜你我们使用-sublime-编辑-css-文件就会有语法检查了&quot; id=&quot;markdown-toc-现在恭喜你我们使用-sublime-编辑-css-文件就会有语法检查了&quot;&gt;现在，恭喜你，我们使用 Sublime 编辑 css 文件，就会有语法检查了！&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#markdown语法&quot; id=&quot;markdown-toc-markdown语法&quot;&gt;markdown语法&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#在编辑过程中会有如下提示&quot; id=&quot;markdown-toc-在编辑过程中会有如下提示&quot;&gt;在编辑过程中，会有如下提示&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;现在恭喜你我们使用-sublime-编辑-css-文件就会有语法检查了&quot;&gt;现在，恭喜你，我们使用 Sublime 编辑 css 文件，就会有语法检查了！&lt;/h1&gt;
 
-«««&amp;lt; HEAD
 &lt;img src=&quot;http://localhost:4000/assets/test.png&quot; alt=&quot;&quot; /&gt;
-=======
 
-&lt;blockquote&gt;
-  &lt;blockquote&gt;
-    &lt;blockquote&gt;
-      &lt;blockquote&gt;
-        &lt;blockquote&gt;
-          &lt;blockquote&gt;
-            &lt;blockquote&gt;
-              parent of 72239fe… test fix
-              &lt;h1 id=&quot;markdown语法&quot;&gt;markdown语法&lt;/h1&gt;
-              &lt;img src=&quot;https://raw.githubusercontent.com/CN-Steve-Lee/CN-Steve-Lee.github.io/master/temp/test.png&quot; alt=&quot;&quot; /&gt;
-            &lt;/blockquote&gt;
-          &lt;/blockquote&gt;
-        &lt;/blockquote&gt;
-      &lt;/blockquote&gt;
-    &lt;/blockquote&gt;
-  &lt;/blockquote&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;在编辑过程中会有如下提示&quot;&gt;在编辑过程中，会有如下提示&lt;/h2&gt;
-&lt;img src=&quot;sthcool.top/assets/test.png&quot; alt=&quot;&quot; /&gt;
-##test
-&lt;img src=&quot;cn-steve-lee.github.io/assets/test.png&quot; alt=&quot;&quot; /&gt;
 </description>
         <pubDate>Mon, 22 Oct 2018 03:40:55 +0800</pubDate>
-        <link>http://localhost:4000/temp/2018/10/22/sublimeLinter-%E5%89%AF%E6%9C%AC/</link>
-        <guid isPermaLink="true">http://localhost:4000/temp/2018/10/22/sublimeLinter-%E5%89%AF%E6%9C%AC/</guid>
+        <link>http://localhost:4000/temp/2018/10/22/t1/</link>
+        <guid isPermaLink="true">http://localhost:4000/temp/2018/10/22/t1/</guid>
         
         <category>Sublime</category>
         
