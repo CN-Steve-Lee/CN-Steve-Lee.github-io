@@ -5,58 +5,79 @@
     <description></description>
     <link>http://localhost:4000/temp/</link>
     <atom:link href="http://localhost:4000/temp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Oct 2018 01:10:43 +0800</pubDate>
-    <lastBuildDate>Wed, 24 Oct 2018 01:10:43 +0800</lastBuildDate>
+    <pubDate>Wed, 24 Oct 2018 01:15:58 +0800</pubDate>
+    <lastBuildDate>Wed, 24 Oct 2018 01:15:58 +0800</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
-        <title>test</title>
+        <title>markdown模板</title>
         <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;Description&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;Description&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#input&quot; id=&quot;markdown-toc-input&quot;&gt;Input&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#output&quot; id=&quot;markdown-toc-output&quot;&gt;Output&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#sample-input&quot; id=&quot;markdown-toc-sample-input&quot;&gt;Sample Input&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#sample-output&quot; id=&quot;markdown-toc-sample-output&quot;&gt;Sample Output&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#solution&quot; id=&quot;markdown-toc-solution&quot;&gt;Solution&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#code&quot; id=&quot;markdown-toc-code&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#summary&quot; id=&quot;markdown-toc-summary&quot;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#图片示例&quot; id=&quot;markdown-toc-图片示例&quot;&gt;图片示例&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;description&quot;&gt;Description&lt;/h1&gt;
-输入n值，并利用下列格里高里公式计算并输出圆周率： 
-Input
-输入公式中的n值。
-Output
-输出圆周率，保留5位小数。
-Sample Input
-1
-Sample Output
+test
+&lt;h2 id=&quot;input&quot;&gt;Input&lt;/h2&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;test&lt;/code&gt;
 
-&lt;img src=&quot;http://localhost:4000/assets/test.png&quot; alt=&quot;&quot; /&gt;
+&lt;h2 id=&quot;output&quot;&gt;Output&lt;/h2&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;5 6 78 2&lt;/code&gt;
 
-</description>
-        <pubDate>Mon, 22 Oct 2018 03:40:55 +0800</pubDate>
-        <link>http://localhost:4000/temp/2018/10/22/t1/</link>
-        <guid isPermaLink="true">http://localhost:4000/temp/2018/10/22/t1/</guid>
-        
-        <category>test</category>
-        
-        
-        <category>test</category>
-        
-      </item>
-    
-      <item>
-        <title>markdown语法</title>
-        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#markdown语法&quot; id=&quot;markdown-toc-markdown语法&quot;&gt;markdown语法&lt;/a&gt;&lt;/li&gt;
+&lt;h3 id=&quot;sample-input&quot;&gt;Sample Input&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;test
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;sample-output&quot;&gt;Sample Output&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;test
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;solution&quot;&gt;Solution&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;a&lt;/li&gt;
+  &lt;li&gt;b&lt;/li&gt;
+  &lt;li&gt;c&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;code&quot;&gt;Code&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-C&quot;&gt;#include&amp;lt;iostream&amp;gt;
+int main(void){
+    return 0;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&quot;summary&quot;&gt;Summary&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;l1&lt;/li&gt;
+  &lt;li&gt;l2&lt;/li&gt;
 &lt;/ul&gt;
 
-a
-&lt;h1 id=&quot;markdown语法&quot;&gt;markdown语法&lt;/h1&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/CN-Steve-Lee/CN-Steve-Lee.github.io/master/temp/test.png&quot; alt=&quot;&quot; /&gt;
-```
-代码段
+&lt;h1 id=&quot;图片示例&quot;&gt;图片示例&lt;/h1&gt;
+&lt;img src=&quot;http://localhost:4000/assets/test.png&quot; alt=&quot;&quot; /&gt;
 
+&lt;img src=&quot;/assets/test.png&quot; alt=&quot;a&quot; /&gt;
 </description>
-        <pubDate>Mon, 22 Oct 2018 01:53:53 +0800</pubDate>
+        <pubDate>Mon, 22 Oct 2018 03:40:55 +0800</pubDate>
         <link>http://localhost:4000/temp/2018/10/22/temp/</link>
         <guid isPermaLink="true">http://localhost:4000/temp/2018/10/22/temp/</guid>
         
-        <category>markdown</category>
+        <category>posts-temp</category>
         
         
         <category>markdown</category>
