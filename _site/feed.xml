@@ -5,12 +5,12 @@
     <description></description>
     <link>http://localhost:4000/temp/</link>
     <atom:link href="http://localhost:4000/temp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Oct 2018 01:02:06 +0800</pubDate>
-    <lastBuildDate>Wed, 24 Oct 2018 01:02:06 +0800</lastBuildDate>
+    <pubDate>Wed, 24 Oct 2018 01:05:14 +0800</pubDate>
+    <lastBuildDate>Wed, 24 Oct 2018 01:05:14 +0800</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
-        <title>markdown语法</title>
+        <title>test</title>
         <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;Description&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -32,10 +32,10 @@ Sample Output
         <link>http://localhost:4000/temp/2018/10/22/t1/</link>
         <guid isPermaLink="true">http://localhost:4000/temp/2018/10/22/t1/</guid>
         
-        <category>Sublime</category>
+        <category>test</category>
         
         
-        <category>Sublime</category>
+        <category>test</category>
         
       </item>
     
