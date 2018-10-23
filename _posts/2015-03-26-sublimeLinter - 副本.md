@@ -11,7 +11,7 @@ tags: Sublime
 
 # 现在，恭喜你，我们使用 Sublime 编辑 css 文件，就会有语法检查了！     
 
-
+![]({{site.url}}/temp/test.png)
 # markdown语法
 ![](https://raw.githubusercontent.com/CN-Steve-Lee/CN-Steve-Lee.github.io/master/temp/test.png)
 

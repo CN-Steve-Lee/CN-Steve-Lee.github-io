@@ -50,4 +50,4 @@ language: zh-Hans
 timezone: Asia/Shanghai
 
 future: --true
-
+baseurl: /temp
