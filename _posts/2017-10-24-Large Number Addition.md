@@ -38,7 +38,7 @@ tags: 大数加法
 
 # Code 
 
-``` C
+```C
 #include<iostream>
 #include<cstdio>
 int main()
