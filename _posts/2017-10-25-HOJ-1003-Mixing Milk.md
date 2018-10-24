@@ -22,24 +22,22 @@ Given the Merry Milk Makers' daily requirement of milk, along with the cost per 
 Note: The total milk produced per day by the farmers will be sufficient to meet the demands of the Merry Milk Makers.
 ## Input
 
-` The first line contains two integers, Nand M. The first value, N, (0 <= N <= 2,000,000) is the amount of milk that Merry Milk Makers' want per day. The second, M, (0 <= M <= 5,000) is the number of farmers that they may buy from.
+> The first line contains two integers, Nand M. The first value, N, (0 <= N <= 2,000,000) is the amount of milk that Merry Milk Makers' want per day. The second, M, (0 <= M <= 	5,000) is the number of farmers that they may buy from.
 The next M lines (Line 2 through M+1) each contain two integers, Pi and Ai. Pi (0 <= Pi <= 1,000) is price in cents that farmer i charges. Ai (0 <= Ai <= 2,000,000) is the amount of milk that farmer i can sell to Merry Milk Makers per day.
-`
+
 ## Output
-`A single line with a single integer that is the minimum price that Merry Milk Makers can get their milk at for one day.` 
+> A single line with a single integer that is the minimum price that Merry Milk Makers can get their milk at for one day.
 
 ### Sample Input
-|总需求N|人数M |  
-|:--:   |:--:  |
-| 100   |  5   |
-|单价Ai |总量Pi|  
-| 5     |  20  |
-| 9     |  40  |
-| 3     |  10  |
-| 8     |  80  |
-| 6     |  30  |
-    
-    
+
+    100  5   
+    5  20  
+    9  40  
+    3  10  
+    8  80  
+    6  30  
+
+
 ### Sample Output    
     630
 
@@ -53,7 +51,7 @@ The next M lines (Line 2 through M+1) each contain two integers, Pi and Ai. Pi (
 
 # Code 
 
-``` C
+```c
 #include<string.h>
 #include<cstdio>
 #include<algorithm>
