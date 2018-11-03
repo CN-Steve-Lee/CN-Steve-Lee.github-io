@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Codeup Find X"
+title:  "算法笔记 Find X"
 date:   2017-11-01 10:40:55
 categories: 算法笔记
 tags: 查找 
