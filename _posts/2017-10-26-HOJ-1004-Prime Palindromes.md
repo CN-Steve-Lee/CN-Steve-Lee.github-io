@@ -24,6 +24,11 @@ The number 151 is a prime palindrome because it is both a prime number and a pal
  The list of palindromic primes in numerical order, one per line.
 
 `palindromic primes list`
+
+
+
+
+
 ### Sample Input
 
     5 500  

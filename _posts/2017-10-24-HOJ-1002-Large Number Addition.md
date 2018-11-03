@@ -27,8 +27,12 @@ tags: 大数加法
 ### Sample Output    
     6
     10
-
 ---
+
+
+
+
+
 # Solution
 
  1. 用scanf控制带格式的输入

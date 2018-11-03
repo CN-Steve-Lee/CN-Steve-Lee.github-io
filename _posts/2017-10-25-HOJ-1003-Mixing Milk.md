@@ -20,6 +20,10 @@ The Merry Milk Makers company has several farmers from which they may buy milk, 
 Given the Merry Milk Makers' daily requirement of milk, along with the cost per gallon and amount of available milk for each farmer, calculate the minimum amount of money that it takes to fulfill the Merry Milk Makers' requirements.
 
 Note: The total milk produced per day by the farmers will be sufficient to meet the demands of the Merry Milk Makers.
+
+
+
+
 ## Input
 
 > The first line contains two integers, N and M. The first value, N, (0 <= N <= 2,000,000) is the amount of milk that Merry Milk Makers' want per day. The second, M, (0 <= M <= 	5,000) is the number of farmers that they may buy from.

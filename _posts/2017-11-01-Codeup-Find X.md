@@ -2,7 +2,7 @@
 layout: post
 title:  "Codeup Find X"
 date:   2017-11-01 10:40:55
-categories: Codeup
+categories: 算法笔记
 tags: 查找 
 ---
 
@@ -21,6 +21,10 @@ tags: 查找
 
 ## Output
 对于每组输入,请输出结果。  
+
+
+
+
 
 ### Sample Input
     4
